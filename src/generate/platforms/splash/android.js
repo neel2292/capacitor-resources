@@ -9,12 +9,6 @@ module.exports = {
             comment: "land-hdpi"
         }, // 480x320
         {
-            name: "drawable-land-ldpi/splash.png",
-            width: 1280,
-            height: 800,
-            comment: "land-ldpi"
-        }, // 320x200
-        {
             name: "drawable-land-mdpi/splash.png",
             width: 2176,
             height: 816,
@@ -44,12 +38,6 @@ module.exports = {
             height: 800,
             comment: "port-hdpi"
         }, // 320x480
-        {
-            name: "drawable-port-ldpi/splash.png",
-            width: 200,
-            height: 320,
-            comment: "port-ldpi"
-        }, // 200x320
         {
             name: "drawable-port-mdpi/splash.png",
             width: 480,
